@@ -16,7 +16,6 @@ EXTRA_DIST = \
 		examples/mysql/dbt3_mysql_profile \
 		examples/mysql/my.cnf \
 		examples/pgsql/dbt3_pgsql_profile \
-		examples/pgsql/dbt3_pgxl_profile \
 		queries/monetdb/1.sql \
 		queries/monetdb/10.sql \
 		queries/monetdb/11.sql \
